@@ -24,7 +24,9 @@
   ## Usage
   Just type "node app.js" in your terminal. After that, write the information asked by the prompts.
   You can check this video if you need help. <a href = "https://drive.google.com/file/d/1zD1YASLlEoru1d9-ir3vaFN3wBeWywof/view"> HERE!</a>
-  <img src="./Screenshot (6).png" alt="Failed to load screenshot">
+  <img src="./Screenshot (6).png" alt="Failed to load screenshot"></img>
+
+   <img src="./Screenshot (7).png" alt="Failed to load screenshot">
   
   
   ## Contribution
